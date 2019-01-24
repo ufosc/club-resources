@@ -4,7 +4,7 @@ Thank you for helping out with the Open Source Clubs's Resources!
 
 Following these guidelines helps us keep good project workflow. We appreciate you working with us on it.
 
-Please read our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to understand our community expectations. Check out our [Discord](https://discord.gg/Gsxej6u) for any additional questions or just to hangout! Look at our [CONTRIBUTORS.md](CONTRIBUTORS.md) for a list of maintainers and contributors.
+Please read our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to understand our community expectations. Check out our [Discord](https://discord.gg/Gsxej6u) for any additional questions or just to hangout! <!-- Look at our [CONTRIBUTORS.md](CONTRIBUTORS.md) for a list of maintainers and contributors. -->
 
 ## How to help?
 
@@ -62,5 +62,5 @@ For a <!-- longer --> more descriptive list, check out our club's [markdown styl
 
 <!-- [Project Board]: -->
 [Issues]: https://github.com/ufosc/club-resources/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
-[Beginner Issues]: https://github.com/ufosc/club-resources/labels/bug
+[Beginner Issues]: https://github.com/ufosc/club-resources/labels/good%20first%20issue
 <!-- [Bug Issues]: -->
