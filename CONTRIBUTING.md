@@ -12,9 +12,9 @@ Please check the <!-- [Projects][Project Board] and --> [Issues][Issues] page<!-
 
 <!-- Checkout the [DESIGN.md](docs/DESIGN.md) file for a high level explanation of the project. For a road map, look at the [TODO.md](docs/TODO.md) which lists planned features for the project. Check out the other files in docs for more information. -->
 
-<!-- ### Report Bug
+<!-- ### Report Bug -->
 
-Check to see if someone already reported this [bug][Bug Issues] already exists. If so then leave a comment on that issue. If not, please provide a detailed description of the bug. Include what was happening before the error, all settings, and test results. This helps us more quickly identify and solve any problems. Create an [Issue][Issues] with the description and add a bug label. We will do our best to respond quickly to it. -->
+<!-- Check to see if someone already reported this [bug][Bug Issues] already exists. If so then leave a comment on that issue. If not, please provide a detailed description of the bug. Include what was happening before the error, all settings, and test results. This helps us more quickly identify and solve any problems. Create an [Issue][Issues] with the description and add a bug label. We will do our best to respond quickly to it. -->
 
 ### Request a Feature
 
@@ -60,7 +60,7 @@ For a <!-- longer --> more descriptive list, check out our club's [markdown styl
 -->
 <!-- Below are the links that change from project to project -->
 
-[Project Board]:
-[Issues]:
-[Beginner Issues]:
-[Bug Issues]:
+<!-- [Project Board]: -->
+[Issues]: https://github.com/ufosc/club-resources/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
+[Beginner Issues]: https://github.com/ufosc/club-resources/labels/bug
+<!-- [Bug Issues]: -->
