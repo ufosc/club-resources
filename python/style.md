@@ -2,9 +2,40 @@
 
 ## Introduction
 
-This document serves to give a brief overview of the accepted coding style for python as stated in the PEP 8 style guide. For those who would like
+Python is designed to be a **readable** language.
+If you understand proper Python style, you will produce better code, code that can be more easily debugged, understood, and shared. 
+
+
+In this document, we outline the accepted coding style for python as stated in the PEP 8 style guide. For those who would like
 more information about accepted Python code style practices, consult the
 Additional Resources section at the bottom of this document. Now without further ado, let's get started.
+
+## Naming Conventions
+
+### Class Names
+
+Class names should use the CapsWords convention.
+
+### Exception Names
+
+Exceptions also use the CapsWords convention. (Exceptions are just classes!)
+
+### Function/Method Names
+
+Function names should be lowercase, with words separated by underscores.
+i.e `def do_function_foo():`
+
+**Note:** Always use `self` for first argument to instance methods.
+
+### Constants
+
+Constants are written in all capital letters with underscores separating
+words. i.e `MAX_OVERFLOW`.
+
+### Variable Names
+
+Variables should be lowercase, with words separated by underscores.
+i.e `jeff_apples = 16`
 
 ## Code Layout
 
@@ -128,33 +159,6 @@ def complex(real=0.0, imag=0.0):
 ```
 **Note:** For a much more in depth look at docstring conventions and
 uses, see [PEP 257-Docstring Conventions](https://www.python.org/dev/peps/pep-0257/).
-
-## Naming Conventions
-
-### Class Names
-
-Class names should use the CapsWords convention.
-
-### Exception Names
-
-Exceptions also use the CapsWords convention.
-
-### Function/Method Names
-
-Function names should be lowercase, with words separated by underscores.
-i.e `def do_function_foo():`
-
-**Note:** Always use `self` for first argument to instance methods.
-
-### Constants
-
-Constants are written in all capital letters with underscores separating
-words. i.e `MAX_OVERFLOW`.
-
-### Variable Names
-
-Variables should be lowercase, with words separated by underscores.
-i.e `jeff_apples = 16`
 
 ## Additional Resources
 
