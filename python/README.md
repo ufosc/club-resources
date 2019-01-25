@@ -18,9 +18,9 @@ Python 2 will no longer be supported in 2020, and should be avoided.
 Style is important!
 Poor style can destroy the beauty of your Python program and hamper collaboration.
 
-PEP 8 provides the definitive guide to Python style: [https://www.python.org/dev/peps/pep-0008/]
+PEP 8 provides the definitive guide to Python style: https://www.python.org/dev/peps/pep-0008/
 
-The PEP 8 is worth a read, but if you're dying to start writing Python, you can check our abridged version here: [style.md].
+The PEP 8 is worth a read, but if you're dying to start writing Python, you can check our abridged version [here](style.md).
 
 ## Resources
 
@@ -36,7 +36,7 @@ Thank you for making it this far, and welcome to the fabulous world of Computer 
 As I said above, Python is a great place to start. 
 The best way to learn programming is to practice.
 I personally learned many moons ago from Codecademy.com, though this teaches Python 2 instead of Python 3.
-I have heard very good things about [learnpython.org]
+I have heard very good things about https://learnpython.org
 Wherever you choose, get in there and start tinkering.
 
 
@@ -54,11 +54,11 @@ Refer to [the official tutorial](https://docs.python.org/3/tutorial/index.html) 
 I don't recommend going through each section entirely, just pick at is as you see fit.
 
 The following sections are especially relevant:
-3. [An Informal Introduction to Python](https://docs.python.org/3/tutorial/introduction.html)
-5. [Data Structures](https://docs.python.org/3/tutorial/datastructures.html)
+  * [3. An Informal Introduction to Python](https://docs.python.org/3/tutorial/introduction.html)
+  * [5. Data Structures](https://docs.python.org/3/tutorial/datastructures.html)
 
 Once you feel like you have a grasp on built-in functions and built-in types, you should start making classes:
-6. [Classes](https://docs.python.org/3/tutorial/classes.html)
+  * [9. Classes](https://docs.python.org/3/tutorial/classes.html)
 
 ### "Okay, I can make a class in Python, but I want to become the very best."
 
@@ -66,4 +66,4 @@ First, watch this: [James Powell - So you want to be a Python expert?](https://y
 I  watched this video probably 2 or 3 times, and it really opened my eyes to a higher level of Python--the data model.
 
 Remember how "__init__()" looks so weird?
-Learn the true power of double underscore methods here: [https://docs.python.org/3.7/reference/datamodel.html]
+Learn the true power of double underscore methods here: https://docs.python.org/3.7/reference/datamodel.html
