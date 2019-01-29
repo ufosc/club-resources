@@ -16,11 +16,11 @@
 
 **Diff** - The difference in changes between two commits. It shows what has been added or removed between the two commits.
 
-**Push** - This sends your local commits to a remote repository, such as Github. This allows everyone working on the project to see you changes. Your local version usually must be up to date to push.
+**Push** - This sends your local commits to a remote repository, such as GitHub. This allows everyone working on the project to see you changes. Your local version usually must be up to date to push.
 
 **GitHub** - A web based Git repository hosting service. It's where we host our projects. It has several features that are not part of base Git that are listed below.
 
-**Pull Request** - Github's online merge. In addition to combining branches, it allows user's who don't have write access to a repository to submit changes to it.
+**Pull Request** - GitHub's online merge. In addition to combining branches, it allows user's who don't have write access to a repository to submit changes to it.
 
 **Fork** - A separate copy of another user or organization's repository. It allows the user to make changes without interfering with the original repository. The new repository can be updated from the original, and submit pull request to the original as well.
 
