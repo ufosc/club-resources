@@ -5,7 +5,7 @@ version 0.5.0
 Python is a powerful language, despite its reputation for being amateurish and slow. 
 True, Python stresses readability and ease of use, making it an excellent choice for beginners.
 Yet, Python's large standard library and [even larger package index](https://pypi.org/) make it a good choice for developers from all sorts of backgrounds. 
-Pick your paradigm--functional, procedural, or object-oriented--Python implements them all with its own Pythonic flair.
+Pick your paradigm--functional, procedural, or object-oriented--Python supports them all with its own Pythonic flair.
 And while Python may be knocked for being an _interpreted_ language, the Python interpreter is the dynamo behind Python's dynamic features.
 Entire classes, functions, can be constructed at runtime by even a novice programmer. 
 
