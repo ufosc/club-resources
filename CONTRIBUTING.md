@@ -26,8 +26,9 @@ Check to see if the feature is already an [Issue][Issue] <!-- is already listed 
 
 ### Submit Changes
 
-1. Create a fork or branch to tackle a specific issue
+1. Create a fork or branch of dev to tackle a specific issue
 	- Team members branch off of dev and follow this [guide](https://guides.github.com/introduction/flow/)
+		- You can become a team member through our [Discord](https://discordapp.com/invite/Gsxej6u)
 	- Others make a [fork](https://guides.github.com/activities/forking/)
   - Name it after the issue or feature you are working on
 2. Follow the style guidelines below
@@ -35,8 +36,10 @@ Check to see if the feature is already an [Issue][Issue] <!-- is already listed 
 3. Make small incremental commits
 	- It's easier to find issues when only a small amount of code is changed
 4. Run and pass tests
+	- Some of our larger projects use [Travis](https://travis-ci.org/) for Continuous Integration (CI).
 5. Make a pull request
 	- The request will be reviewed
+		- If there is not a response after a few days, try contacting the project lead
 	- Any needed changes will be noted
 6. The changes will be added to the project
 	- Yay! Thank you so much for helping out
