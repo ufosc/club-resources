@@ -39,16 +39,15 @@
 
 ### Workflow
 
-Usually there are several branches on the main repository.
+Usually there are several branches on the main repository. The main two in ours are:
 
-Master, which is usually a stable version of the software. Normally you don't directly update this.
-
-Development or dev branch is where most feature and bug branches pull from and merge to.
+- `Master`, which is usually a stable version of the software. Normally you don't directly update this.
+- `Development` or `dev` branch is where most feature and bug branches pull from and merge to.
 
 Other branches are made for a variety of reasons. For example, if there is a feature being worked on, create a new branch from dev. Once that feature is working, push it back into the dev branch.
 
-Name the new branch in a way that is short and descriptive, such as Contact-Database.
+- Name the new branch in a way that is short and descriptive, such as `Contact-Database`.
 
 Once a feature branch is working, make a pull request to the dev branch. Administrators will check it, and confirm the merge. When the dev branch is stable enough, it will be merged into the master branch.
 
-[Click here](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) for a good, more in-depth guide.
+Our workflow is heavily based on the principles of Gitflow. [Click here](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) for a good, more in-depth guide.
