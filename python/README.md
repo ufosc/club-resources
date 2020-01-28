@@ -22,6 +22,11 @@ PEP 8 provides the definitive guide to Python style: https://www.python.org/dev/
 
 The PEP 8 is worth a read, but if you're dying to start writing Python, you can check our abridged version [here](style.md).
 
+We highly recommend that you check out the [Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html).
+(It's a quick read.)
+Many people--including experts--make these mistakes.
+By learning about these anti-patterns, not only will you make fewer mistakes, but you'll also learn about nifty shortcuts in Python.
+
 ## Resources
 
 Python is extremely well documented.
