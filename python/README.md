@@ -2,16 +2,16 @@
 version 0.5.0
 
 ## Introduction
-Python is a powerful language, despite its reputation for being amateurish and slow. 
+Python is a powerful language, despite its reputation for being amateurish and slow.
 True, Python stresses readability and ease of use, making it an excellent choice for beginners.
-Yet, Python's large standard library and [even larger package index](https://pypi.org/) make it a good choice for developers from all sorts of backgrounds. 
+Yet, Python's large standard library and [even larger package index](https://pypi.org/) make it a good choice for developers from all sorts of backgrounds.
 Pick your paradigm--functional, procedural, or object-oriented--Python supports them all with its own Pythonic flair.
 And while Python may be knocked for being an _interpreted_ language, the Python interpreter is the dynamo behind Python's dynamic features.
-Entire classes, functions, can be constructed at runtime by even a novice programmer. 
+Entire classes, functions, can be constructed at runtime by even a novice programmer.
 
 ## Python 2 vs. Python 3
 
-Python 2 will no longer be supported in 2020, and should be avoided. 
+Python 2 will no longer be supported in 2020, and should be avoided.
 
 ## Style
 
@@ -33,7 +33,7 @@ Make a habit of reading the documentation, and you will be able to quickly solve
 ### "I'm a Complete Beginner"
 
 Thank you for making it this far, and welcome to the fabulous world of Computer Science!
-As I said above, Python is a great place to start. 
+As I said above, Python is a great place to start.
 The best way to learn programming is to practice.
 I personally learned many moons ago from Codecademy.com, though this teaches Python 2 instead of Python 3.
 I have heard very good things about https://learnpython.org
@@ -45,12 +45,12 @@ Wherever you choose, get in there and start tinkering.
 Here's a few quick tips:
 - **Whitespace matters**. No ugly braces for if statements or loops.
 - Python uses dynamic typing, meaning identifiers are not bound to a specific type.
-- Functions do not have a return type (see previous). 
+- Functions do not have a return type (see previous).
 - Built-in types include Strings, Lists (think ArrayList or std::vector), Dictionaries (think HashMap).
 Virtually eveything in python is composed of these types (plus primatives).
 
-Because Python is so **readable**, you can learn a lot simply by reading it. 
-Refer to [the official tutorial](https://docs.python.org/3/tutorial/index.html) as needed. 
+Because Python is so **readable**, you can learn a lot simply by reading it.
+Refer to [the official tutorial](https://docs.python.org/3/tutorial/index.html) as needed.
 I don't recommend going through each section entirely, just pick at is as you see fit.
 
 The following sections are especially relevant:
@@ -65,5 +65,5 @@ Once you feel like you have a grasp on built-in functions and built-in types, yo
 First, watch this: [James Powell - So you want to be a Python expert?](https://youtu.be/cKPlPJyQrt4)
 I  watched this video probably 2 or 3 times, and it really opened my eyes to a higher level of Python--the data model.
 
-Remember how "__init__()" looks so weird?
-Learn the true power of double underscore methods here: https://docs.python.org/3.7/reference/datamodel.html
+Remember how `__init__()` methods look so weird?
+Learn the true power of double underscore ("dunder") methods here: https://docs.python.org/3.7/reference/datamodel.html
