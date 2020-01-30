@@ -3,7 +3,7 @@
 ## Introduction
 
 Python is designed to be a **readable** language.
-If you understand proper Python style, you will produce better code, code that can be more easily debugged, understood, and shared. 
+If you understand proper Python style, you will produce better code, code that can be more easily debugged, understood, and shared.
 
 
 In this document, we outline the accepted coding style for python as stated in the PEP 8 style guide. For those who would like
@@ -169,3 +169,5 @@ describing the "pythonic" way of writing code.
 * [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 * [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
 * [PEP 257 - Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
+* [Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html) *(highly recommended)*
+
