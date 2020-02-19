@@ -60,7 +60,7 @@ Add in the `wasm-bindgen` crate, and you have all the safety of Rust, with the s
 - [Tensor Programming - Intro to Rust Web Asssembly](https://rustwasm.github.io/docs/wasm-bindgen/) - Great YouTube tutorial explaining how to compile Rust to WASM from start to finish.
 - [wasm-bindgen Documentation](https://rustwasm.github.io/docs/wasm-bindgen/introduction.html) - Official documentation for the wasm-bindgen crate. Includes instructions for compiling Rust to WASM, and instructions for calling JavaScript functions from Rust using `web-sys`.
 - [WebAssembly with Rust](https://youtu.be/YDQICTKlr9g) - Excellent talk from Kevin Hoffman, who [literally wrote the book on Rust+WASM](https://pragprog.com/book/khrust/programming-webassembly-with-rust). Explains many WASM fundamentals well.
-- [Yew](https://yew.rs/docs/) A Rust framework for front-end web development inspired by Elm.
+- [Yew](https://yew.rs/docs/) - A Rust framework for front-end web development inspired by Elm.
 
 ### Graphics
 - [gfx-hal](https://rust-tutorials.github.io/learn-gfx-hal/) - An ambitious, low-level Rust library that based in part on Vulkan. Not for the faint of heart.
@@ -87,6 +87,9 @@ Remember that part about Rust being 'low level'?
 
 ### Other Neat Crates
 - [rand](https://rust-random.github.io/book/) - Rust's standard library does not include any random number generators. `rand` is the *de facto* standard for RNGs.
+- [clap](https://github.com/clap-rs/clap) - Extremely versatile command-line argument parser.
+- [serde](https://serde.rs/) - Efficient serialization framework for Rust.
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - Took the title for "fastest grep" from the long-reigning champion GNU grep.
 - [rust-bio](http://rust-bio.github.io/) - library of common bioinformatic alogrithms and data structures
 - [flate2](https://docs.rs/flate2/) - library for compression / decompression (gzip and zlib formats)
 - [tokio](https://tokio.rs/) - reliable, high-performance asynchronous runtime for Rust
