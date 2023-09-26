@@ -1,3 +1,7 @@
+# IMPORTANT NOTICE!!!!!!!!!!!!
+All of the markdown files for this repository have been put onto the club website https://ufosc.org/
+Any further changes should be made in that repo instead https://github.com/ufosc/Club_Website_2
+
 # Club Resources
 
 This is a collection of references, links, and other information about various programming languages, technology, and other things the club works with.
