@@ -1,5 +1,5 @@
 # IMPORTANT NOTICE!!!!!!!!!!!!
-All of the markdown files for this repository have been put onto the club website (https://ufosc.org/)
+All of the markdown files for this repository have been put onto the club website (https://ufosc.org/).
 Any further changes should be made in the club docs repo instead (https://github.com/ufosc/osc-docs)
 
 # Club Resources
